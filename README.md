@@ -5,4 +5,5 @@ Hello me. Copy the following script into the terminal.
 
 ```
 sudo apt-get install i3wm git
+sudo snap install rider --classic
 ```
